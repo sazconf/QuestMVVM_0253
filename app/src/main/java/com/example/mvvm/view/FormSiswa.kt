@@ -103,7 +103,7 @@ fun FormSiswa(
                 singleLine = true,
                 shape = MaterialTheme.shapes.medium,
                 modifier = Modifier.width(250.dp),
-                label = { Text(text = "Alamat Lengkap") },
+                label = { Text(text = stringResource(id = R.string.alamat)) },
                 onValueChange = { txtAlamat = it }
             )
             Spacer(modifier = Modifier.height(20.dp))
