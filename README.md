@@ -15,11 +15,17 @@ A simple Android Jetpack Compose application built with MVVM architecture, demon
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/1_form_empty.png" width="30%" alt="Empty Registration Form"/>
+
+  <img width="380" height="807" alt="image" src="https://github.com/user-attachments/assets/e2e42fbb-a49d-4d29-9387-e707fffb0d83" />
+
   &nbsp;&nbsp;
-  <img src="screenshots/2_form_filled.png" width="30%" alt="Filled Registration Form"/>
+  <img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/ca94abd1-4f19-4896-82cc-cf50aa8e72c1" />
+
+  
+  
   &nbsp;&nbsp;
-  <img src="screenshots/3_data_siswa.png" width="30%" alt="Submitted Data Screen"/>
+  <img width="362" height="797" alt="image" src="https://github.com/user-attachments/assets/ae3fd7f4-6522-4bbc-8a86-c860ee9b0e59" />
+
 </p>
 
 ## Tools & Libraries Used
