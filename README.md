@@ -12,6 +12,16 @@ A simple Android Jetpack Compose application built with MVVM architecture, demon
 - **Formulir Screen**: Allows users to input their name, gender (via radio buttons), and address.
 - **Detail Screen**: Displays the submitted data in a clean layout and provides a back navigation button.
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/1_form_empty.png" width="30%" alt="Empty Registration Form"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/2_form_filled.png" width="30%" alt="Filled Registration Form"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/3_data_siswa.png" width="30%" alt="Submitted Data Screen"/>
+</p>
+
 ## Tools & Libraries Used
 - Kotlin
 - Jetpack Compose (Material 3)
